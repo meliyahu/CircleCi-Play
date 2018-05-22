@@ -2,7 +2,7 @@
   "name": "circleci_demo1",
   "version": "1.0.0",
   "description": "To demo ci with circleci",
-  "main": "sum.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
